@@ -2,6 +2,10 @@
 :: Use the current folder as the working directory
 cd /d "%~dp0"
 
+echo.
+echo 3. Pulling latest changes (to avoid conflicts)...
+git pull origin main
+
 echo Adding files...
 git add .
 
