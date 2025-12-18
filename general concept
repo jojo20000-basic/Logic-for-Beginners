@@ -1,0 +1,7 @@
+Der Baukasten besteht aus gleich großen Leiterplatten, die jeweils verschieden Funktionen einnehmen können. Wir unterscheiden zwischen drei verschiedenen Klassen: INPUT, OUTPUT, und LOGIC GATES. 
+Jede Input Leiterplatte enthält zwei Output, die über Schiebeschalter auf 0 oder 1 gesetzt werden können. Der aktuelle Zustand wird mittels LEDs vermittelt. Es gibt eine besondere INPUT Platte, die einen USB C port für powerdelivery hat. 
+Die Leiterplatten können modular aneinander gesteckt werden. 
+Jede OUTPUT Leiterplatte kann zwei finale Zustände mittels LEDs abbilden. Genau wie die INPUT Platten, sind die OUTPUT Platten modulart. 
+Damit die jeweiligen INPUT bzw. OUTPUT Platten solide miteinander verbunden sind, werden wir ein entsprechendes 3D-gedrucktes Verbindungsstück entwickeln. 
+In Zukunft gibt es die Idee eine besondere Version der OUTPUT Platte zu entwickeln, die den finalen Binärwert mittels eines Displays in anderen Zahlensystemen darstellen kann. 
+Die Logicgates haben für jeden ihrer Inputs eine LED, die diesen visualisiert, sowie auch für ihren Output. Die Leiterplatten sind mit dem standartisierten Symbol des jeweiligen Logicgates versehen. 
