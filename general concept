@@ -5,7 +5,7 @@ Die Modul-Klassen
 
     INPUT-Module: Jede Input-Platte verfügt über zwei Ausgänge, die per Schiebeschalter auf den Zustand 0 oder 1 gesetzt werden können. Der aktuelle Status wird über LEDs visualisiert. Eine spezielle INPUT-Platte dient der Stromversorgung via USB-C (Power Delivery).
 
-    OUTPUT-Module: Diese Platten bilden finale Zustände über LEDs ab. Die OUTPUT-Platten sind auch modular aufgebaut.
+    OUTPUT-Module: Diese Platten bilden finale Zustände über LEDs ab. 
 
     LOGIC GATES: Die Logikgatter verfügen über LEDs für jeden Eingang sowie für den Ausgang, um den Signalfluss sichtbar zu machen. Die Platten sind mit den standardisierten Symbolen des jeweiligen Gatters beschriftet.
 
@@ -22,7 +22,7 @@ Module Classes
 
     INPUT Modules: Each input board features two outputs that can be set to state 0 or 1 using slide switches. The current status is visualized via indicator LEDs. A specialized INPUT board serves as the central power supply via USB-C (Power Delivery).
 
-    OUTPUT Modules: These boards represent final logic states through LEDs. Like the INPUT Modules, the OUTPUT boards feature a modular design.
+    OUTPUT Modules: These boards represent final logic states through LEDs.
 
     LOGIC GATES: Each logic gate module is equipped with LEDs for every input and output to make the signal flow clearly visible. The boards are labeled with the standardized symbols for the respective logic gate.
 
