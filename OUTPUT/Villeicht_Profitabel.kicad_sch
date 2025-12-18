@@ -734,6 +734,26 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 80.01) (xy 67.31 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d207982-0b40-4ab9-87af-0a423f0ea825")
+	)
+	(wire
+		(pts
+			(xy 74.93 86.36) (xy 85.09 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d14e1f1-9121-4366-a6e1-a70d668d3894")
+	)
+	(wire
+		(pts
 			(xy 54.61 63.5) (xy 54.61 71.12)
 		)
 		(stroke
@@ -751,6 +771,16 @@
 			(type default)
 		)
 		(uuid "5b1754f8-5835-40a6-af26-b288bb339229")
+	)
+	(wire
+		(pts
+			(xy 54.61 73.66) (xy 74.93 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b9a30f0-4a3f-410d-b11f-52b559a9ed08")
 	)
 	(wire
 		(pts
@@ -774,6 +804,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 86.36) (xy 74.93 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "888e80b3-160f-427f-b4ac-c404793130de")
+	)
+	(wire
+		(pts
 			(xy 54.61 71.12) (xy 71.12 71.12)
 		)
 		(stroke
@@ -781,6 +821,56 @@
 			(type default)
 		)
 		(uuid "8ef8fe14-b561-48d5-81a6-830e2c54a72c")
+	)
+	(wire
+		(pts
+			(xy 54.61 82.55) (xy 54.61 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f9f19c3-9680-4f75-ab79-b32ac47cd2b2")
+	)
+	(wire
+		(pts
+			(xy 54.61 73.66) (xy 54.61 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5c3b5de-2b93-4852-a277-2dada4118d56")
+	)
+	(wire
+		(pts
+			(xy 74.93 73.66) (xy 74.93 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9e02df7-45b8-40f1-9b4c-b535876f6afd")
+	)
+	(wire
+		(pts
+			(xy 92.71 86.36) (xy 92.71 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2d0843c-c0a1-428f-b2f3-5fd54099cede")
+	)
+	(wire
+		(pts
+			(xy 54.61 90.17) (xy 71.12 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc69e6a4-75b5-465b-84e1-562346c086bb")
 	)
 	(wire
 		(pts
@@ -814,6 +904,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 80.01) (xy 58.42 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e27169fa-69e3-44b5-b95e-3c1f120c2f47")
+	)
+	(wire
+		(pts
 			(xy 74.93 67.31) (xy 85.09 67.31)
 		)
 		(stroke
@@ -824,6 +924,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 90.17) (xy 92.71 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7cbcb94-8754-4f34-9a09-095712234d21")
+	)
+	(wire
+		(pts
 			(xy 92.71 67.31) (xy 92.71 71.12)
 		)
 		(stroke
@@ -831,6 +941,154 @@
 			(type default)
 		)
 		(uuid "fe5791e3-b616-41be-a9b8-e6cbdeaa116b")
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x03_Pin")
+		(at 49.53 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09dfe45b-1b9d-4f3f-b4b9-3ad70cec769d")
+		(property "Reference" "J2"
+			(at 50.165 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x03_Pin"
+			(at 50.165 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_1x03_P1.00mm_Vertical"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73f8e2b4-ab71-49d4-a0ff-1d401fd3796e")
+		)
+		(pin "2"
+			(uuid "a66857bf-c271-4754-a9fe-980db3afb3e8")
+		)
+		(pin "3"
+			(uuid "6df7ad48-65ca-4245-93ee-6dde58959e80")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 88.9 86.36 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "424d1e73-cc7a-4e7d-b43d-69f2fc528ad7")
+		(property "Reference" "D2"
+			(at 90.4875 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 90.4875 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bc3d8995-4c21-43b4-83e7-f25b273f115d")
+		)
+		(pin "1"
+			(uuid "0de52b02-e3ac-4d4b-9497-aadf5fba1c4f")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -858,7 +1116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 62.23 59.182 90)
 			(effects
 				(font
@@ -926,7 +1184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 74.93 69.342 90)
 			(effects
 				(font
@@ -996,7 +1254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-18-3"
+		(property "Footprint" "Transistor_Power:GaN_Systems_GaNPX-3_5x6.6mm_Drain3.76x0.6mm"
 			(at 77.47 62.865 0)
 			(effects
 				(font
@@ -1070,7 +1328,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_1x03_P1.00mm_Vertical"
 			(at 49.53 60.96 0)
 			(effects
 				(font
@@ -1141,7 +1399,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 88.9 67.31 0)
 			(effects
 				(font
@@ -1187,6 +1445,218 @@
 			(project ""
 				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 74.93 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc08a652-d59c-43c1-87cb-f2505be509b8")
+		(property "Reference" "R4"
+			(at 74.93 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 74.93 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 74.93 88.392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 74.93 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d77b62b-3b81-4aec-a12d-ed8bdd75576b")
+		)
+		(pin "2"
+			(uuid "7f3bcf71-b99f-4b71-b0a6-f605278e9db4")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_BJT:BC107")
+		(at 72.39 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d7108b9f-94c0-4732-a95a-6744443bbc09")
+		(property "Reference" "Q2"
+			(at 77.47 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BC107"
+			(at 77.47 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Transistor_Power:GaN_Systems_GaNPX-3_5x6.6mm_Drain3.76x0.6mm"
+			(at 77.47 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.b-kainka.de/Daten/Transistor/BC108.pdf"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1A Ic, 50V Vce, Low Noise General Purpose NPN Transistor, TO-18"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d73d5a87-8e24-493f-b696-6aa8f0422d21")
+		)
+		(pin "2"
+			(uuid "d699c27e-d1a3-4567-9ccd-c5896c31a627")
+		)
+		(pin "3"
+			(uuid "9f215118-722a-4104-87c2-2a7ca9d7f735")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 62.23 80.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea9bb4ea-de02-457d-9efa-7c604dd9a793")
+		(property "Reference" "R3"
+			(at 62.23 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 62.23 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 62.23 78.232 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 62.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae3b2d0c-d5a7-41e4-bf75-5fa3bcf7cb04")
+		)
+		(pin "2"
+			(uuid "53f94c19-fbe4-4ae8-a7b8-02151b8402c9")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "R3")
 					(unit 1)
 				)
 			)
