@@ -1,7 +1,8 @@
-🧩 Logic-for-Beginners: Modular Logic Kit
+Logic-for-Beginners: Modular Logic Kit
 
 An affordable, user-friendly, and open-source system designed to help students explore the world of digital logic through hands-on experimentation.
-🌟 The Vision
+
+The Vision
 
 Understanding logic gates is the foundation of computer science, yet learning it from a textbook can be abstract. Our goal is to make logic tangible. This kit allows students to physically connect gates, visualize signal flows in real-time, and build complex circuits from simple building blocks.
 🛠 Project Overview
@@ -33,7 +34,7 @@ The system consists of uniform, modular Printed Circuit Boards (PCBs) categorize
 
     Expansion: Future versions will feature a display for Binary-to-Decimal/Hexadecimal conversion.
 
-🏗 Modular Design & Hardware
+Modular Design & Hardware
 
     Interconnectivity: Boards are designed to be plugged together seamlessly.
 
@@ -41,7 +42,7 @@ The system consists of uniform, modular Printed Circuit Boards (PCBs) categorize
 
     Form Factor: All PCBs share a standardized footprint for easy storage and assembly.
 
-🚀 Getting Started
+Getting Started
 
     Conceptual Design: Check out our General Concept File for a deep dive into the architecture.
 
@@ -49,6 +50,6 @@ The system consists of uniform, modular Printed Circuit Boards (PCBs) categorize
 
     Assembly: View the 3D-printing files in /mechanics for the connector bridges.
 
-📜 License
+License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
