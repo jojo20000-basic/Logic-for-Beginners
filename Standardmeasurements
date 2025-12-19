@@ -2,3 +2,22 @@ Size of Elements: 4cm * 2,5cm
 LED Position: 
 Pins Position: 
 Silk Screen Dimensions: 
+
+
+
+Bauteile:
+LED: 
+	Schematic: LED
+	Footprint: LED_SMD:LED_1206_3216Metric
+MOSFET:
+	Schematic: QM6006D
+	Footprint: Package_TO_SOT_SMD:TO-252-2
+Connector:
+	Schematic: Conn_01x03_Pin
+	Footprint: Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal
+Resistor:
+	Schematic: R
+	Footprint: Resistor_SMD:R_1206_3216Metric
+Gates:
+	Schematic: Siehe Wikipedia
+	Footprint:
