@@ -817,6 +817,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 73.66) (xy 74.93 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac71f5d-626f-4595-b5e4-1daf5f240add")
+	)
+	(wire
+		(pts
 			(xy 54.61 60.96) (xy 58.42 60.96)
 		)
 		(stroke
@@ -824,6 +834,46 @@
 			(type default)
 		)
 		(uuid "1730a98d-ebde-4773-9f8f-4658bdde5cec")
+	)
+	(wire
+		(pts
+			(xy 74.93 86.36) (xy 74.93 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17a785d9-da0b-4f00-923f-547975d681a1")
+	)
+	(wire
+		(pts
+			(xy 54.61 80.01) (xy 58.42 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e87da14-e525-42c5-9197-ab29667d3fd0")
+	)
+	(wire
+		(pts
+			(xy 54.61 90.17) (xy 71.12 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37ccffab-30d6-4a05-a6cf-fb7ad972c741")
+	)
+	(wire
+		(pts
+			(xy 54.61 73.66) (xy 74.93 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b97c308-39a1-4b54-887f-80370ff8989d")
 	)
 	(wire
 		(pts
@@ -837,6 +887,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 86.36) (xy 92.71 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51c5abe9-1bad-4f7f-8978-ff1d4ad2f5c3")
+	)
+	(wire
+		(pts
 			(xy 66.04 60.96) (xy 67.31 60.96)
 		)
 		(stroke
@@ -844,6 +904,26 @@
 			(type default)
 		)
 		(uuid "5b1754f8-5835-40a6-af26-b288bb339229")
+	)
+	(wire
+		(pts
+			(xy 54.61 73.66) (xy 54.61 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73e0d348-625f-4942-82c5-bd17b02d8a4c")
+	)
+	(wire
+		(pts
+			(xy 74.93 86.36) (xy 85.09 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d043f23-9826-49d1-bfcf-2878c8d9a33e")
 	)
 	(wire
 		(pts
@@ -867,6 +947,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 82.55) (xy 54.61 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8982229a-5b69-49a4-a7a0-bb3759dbc97d")
+	)
+	(wire
+		(pts
 			(xy 54.61 71.12) (xy 71.12 71.12)
 		)
 		(stroke
@@ -874,6 +964,16 @@
 			(type default)
 		)
 		(uuid "8ef8fe14-b561-48d5-81a6-830e2c54a72c")
+	)
+	(wire
+		(pts
+			(xy 66.04 80.01) (xy 67.31 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98286387-d7d5-47cb-be9a-0e39ac22a3f4")
 	)
 	(wire
 		(pts
@@ -917,6 +1017,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 90.17) (xy 92.71 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee00c45d-8ba3-4840-85cc-029cf6cbfed9")
+	)
+	(wire
+		(pts
 			(xy 92.71 67.31) (xy 92.71 71.12)
 		)
 		(stroke
@@ -924,6 +1034,146 @@
 			(type default)
 		)
 		(uuid "fe5791e3-b616-41be-a9b8-e6cbdeaa116b")
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x03_Pin")
+		(at 49.53 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a52dcfb-d4f5-445b-b753-94a9cb2eb47d")
+		(property "Reference" "J2"
+			(at 50.165 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x03_Pin"
+			(at 50.165 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 49.53 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b855ac96-e60c-404f-b636-b0bca401830e")
+		)
+		(pin "2"
+			(uuid "e37af545-4176-4e9e-a967-6e407a5c7aa5")
+		)
+		(pin "3"
+			(uuid "a902baa6-3160-40c7-8887-76c180e58d3c")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 74.93 90.17 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "42edd1ee-d24d-40c9-8831-25218d34d9e8")
+		(property "Reference" "R4"
+			(at 74.93 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "R"
+			(at 74.93 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 74.93 88.392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 74.93 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 74.93 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c1a3bf15-01f4-4bad-974a-d8e24251cac9")
+		)
+		(pin "2"
+			(uuid "914a927a-6ae8-47b7-a3da-d0f4539be9ac")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Transistor_FET:QM6006D")
@@ -1139,6 +1389,151 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 88.9 86.36 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5db64f94-db59-4901-907e-5033271c2b19")
+		(property "Reference" "D2"
+			(at 90.4875 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 90.4875 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 88.9 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b56c282a-4220-4a87-96f7-3cd5a084e58e")
+		)
+		(pin "1"
+			(uuid "894e8235-0547-40ef-a50d-520a86026159")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 62.23 80.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78216eb1-a0cb-4594-b946-56e6babbb393")
+		(property "Reference" "R3"
+			(at 62.23 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 62.23 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 62.23 78.232 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 62.23 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "032567dd-ac5d-4e60-861b-966e9ac448f2")
+		)
+		(pin "2"
+			(uuid "9613efc5-3072-4da4-a8f3-a678f6e92b37")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
 		(at 49.53 60.96 0)
 		(unit 1)
@@ -1164,7 +1559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
 			(at 49.53 60.96 0)
 			(effects
 				(font
@@ -1281,6 +1676,82 @@
 			(project ""
 				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Transistor_FET:QM6006D")
+		(at 72.39 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc17438e-3078-4e8b-adf9-3c69da8f4859")
+		(property "Reference" "Q1"
+			(at 78.74 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "QM6006D"
+			(at 78.74 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+			(at 77.47 81.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.jaolen.com/images/pdf/QM6006D.pdf"
+			(at 77.47 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "35A Id, 60V Vds, N-Channel Power MOSFET, 18mOhm Ron, 19.3nC Qg (typ), TO252"
+			(at 72.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "09da9ab0-3351-4a79-9ee1-ff519b2db806")
+		)
+		(pin "3"
+			(uuid "d7b37081-f0c8-40ce-9321-b34345fb3471")
+		)
+		(pin "2"
+			(uuid "f7684163-9ba9-4278-825f-1089cab6cddd")
+		)
+		(instances
+			(project "Villeicht_Profitabel"
+				(path "/4cd75210-40d8-4946-8696-57fa825b4467"
+					(reference "Q1")
 					(unit 1)
 				)
 			)
