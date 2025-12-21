@@ -28,3 +28,6 @@ Schalter:
 Gates:
 	Schematic: Siehe Wikipedia
 	Footprint:
+4011 Integrated Circuit:
+	Schematic: 4011 ACHTE AUF VSS UND VDD
+	Footprint: DIP-14_W7.62mm 
