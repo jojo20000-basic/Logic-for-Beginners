@@ -2515,7 +2515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 82.55 78.74 0)
 			(effects
 				(font
@@ -2768,7 +2768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 151.13 72.39 0)
 			(effects
 				(font
@@ -2796,46 +2796,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003b")
+			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003c")
 		)
 		(pin "2"
 			(uuid "d1362113-475a-403c-b426-35ceed6bd17c")
 		)
 		(pin "5"
-			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e6")
+			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e7")
 		)
 		(pin "3"
 			(uuid "c718e004-b1a9-48d4-a623-f56fed2fe570")
 		)
 		(pin "4"
-			(uuid "1e292be0-b4d3-499a-90df-613f49a04981")
+			(uuid "1e292be0-b4d3-499a-90df-613f49a04982")
 		)
 		(pin "11"
-			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f75")
+			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f76")
 		)
 		(pin "8"
-			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347881")
+			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347882")
 		)
 		(pin "10"
-			(uuid "087ad030-9927-4ce4-be9f-0c243888231c")
+			(uuid "087ad030-9927-4ce4-be9f-0c243888231d")
 		)
 		(pin "12"
-			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7b")
+			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7c")
 		)
 		(pin "13"
-			(uuid "b157e185-dea0-4082-a6d7-650f825ec7fd")
+			(uuid "b157e185-dea0-4082-a6d7-650f825ec7fe")
 		)
 		(pin "1"
 			(uuid "0685d318-a6e0-4d17-93c7-b9fd76257929")
 		)
 		(pin "6"
-			(uuid "3a83907a-5298-49c4-a3ec-c058c442070a")
+			(uuid "3a83907a-5298-49c4-a3ec-c058c442070b")
 		)
 		(pin "14"
-			(uuid "ad370799-d523-4e63-bfcb-eef419cfb202")
+			(uuid "ad370799-d523-4e63-bfcb-eef419cfb203")
 		)
 		(pin "7"
-			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11134")
+			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11135")
 		)
 		(instances
 			(project "Integrated Circuit Design"
@@ -2948,7 +2948,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 86.36 120.65 0)
 			(effects
 				(font
@@ -2976,46 +2976,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003b")
+			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003d")
 		)
 		(pin "2"
 			(uuid "8ecc5295-c3da-475d-aeb9-4e2265539161")
 		)
 		(pin "5"
-			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e6")
+			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e8")
 		)
 		(pin "3"
 			(uuid "b7e6868c-dad0-4348-84aa-0e2d2eef2894")
 		)
 		(pin "4"
-			(uuid "1e292be0-b4d3-499a-90df-613f49a04981")
+			(uuid "1e292be0-b4d3-499a-90df-613f49a04983")
 		)
 		(pin "11"
-			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f75")
+			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f77")
 		)
 		(pin "8"
-			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347881")
+			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347883")
 		)
 		(pin "10"
-			(uuid "087ad030-9927-4ce4-be9f-0c243888231c")
+			(uuid "087ad030-9927-4ce4-be9f-0c243888231e")
 		)
 		(pin "12"
-			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7b")
+			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7d")
 		)
 		(pin "13"
-			(uuid "b157e185-dea0-4082-a6d7-650f825ec7fd")
+			(uuid "b157e185-dea0-4082-a6d7-650f825ec7ff")
 		)
 		(pin "1"
 			(uuid "282c44ac-07d8-4400-ab17-9c3fb969a33a")
 		)
 		(pin "6"
-			(uuid "3a83907a-5298-49c4-a3ec-c058c442070a")
+			(uuid "3a83907a-5298-49c4-a3ec-c058c442070c")
 		)
 		(pin "14"
-			(uuid "ad370799-d523-4e63-bfcb-eef419cfb202")
+			(uuid "ad370799-d523-4e63-bfcb-eef419cfb204")
 		)
 		(pin "7"
-			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11134")
+			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11136")
 		)
 		(instances
 			(project "Integrated Circuit Design"
@@ -3578,7 +3578,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 86.36 129.54 0)
 			(effects
 				(font
@@ -3606,46 +3606,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003b")
+			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003e")
 		)
 		(pin "2"
 			(uuid "5cb4e2c0-4553-439a-965f-84297aca7434")
 		)
 		(pin "5"
-			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e6")
+			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e9")
 		)
 		(pin "3"
 			(uuid "decbf15a-3d5f-4776-896e-d00831bed8ad")
 		)
 		(pin "4"
-			(uuid "1e292be0-b4d3-499a-90df-613f49a04981")
+			(uuid "1e292be0-b4d3-499a-90df-613f49a04984")
 		)
 		(pin "11"
-			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f75")
+			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f78")
 		)
 		(pin "8"
-			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347881")
+			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347884")
 		)
 		(pin "10"
-			(uuid "087ad030-9927-4ce4-be9f-0c243888231c")
+			(uuid "087ad030-9927-4ce4-be9f-0c243888231f")
 		)
 		(pin "12"
-			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7b")
+			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7e")
 		)
 		(pin "13"
-			(uuid "b157e185-dea0-4082-a6d7-650f825ec7fd")
+			(uuid "b157e185-dea0-4082-a6d7-650f825ec800")
 		)
 		(pin "1"
 			(uuid "f6fadab4-16e3-483c-82eb-50743d6fa77a")
 		)
 		(pin "6"
-			(uuid "3a83907a-5298-49c4-a3ec-c058c442070a")
+			(uuid "3a83907a-5298-49c4-a3ec-c058c442070d")
 		)
 		(pin "14"
-			(uuid "ad370799-d523-4e63-bfcb-eef419cfb202")
+			(uuid "ad370799-d523-4e63-bfcb-eef419cfb205")
 		)
 		(pin "7"
-			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11134")
+			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11137")
 		)
 		(instances
 			(project "Integrated Circuit Design"
@@ -3825,7 +3825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 86.36 138.43 0)
 			(effects
 				(font
@@ -3853,46 +3853,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003b")
+			(uuid "7cb27564-3aae-4ee6-93e1-ccc3f4b5003f")
 		)
 		(pin "2"
 			(uuid "c15158ac-e510-40e4-a878-8360c15fa3fd")
 		)
 		(pin "5"
-			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8e6")
+			(uuid "67e44bc2-d270-4d35-b9aa-723afbf8d8ea")
 		)
 		(pin "3"
 			(uuid "4b3aa161-863f-4f52-a05d-d201ee33022c")
 		)
 		(pin "4"
-			(uuid "1e292be0-b4d3-499a-90df-613f49a04981")
+			(uuid "1e292be0-b4d3-499a-90df-613f49a04985")
 		)
 		(pin "11"
-			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f75")
+			(uuid "6a7079cc-ebf7-4bf4-b69d-777b60b78f79")
 		)
 		(pin "8"
-			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347881")
+			(uuid "e1b15b7f-5d2b-4dd7-bac5-cfe876347885")
 		)
 		(pin "10"
-			(uuid "087ad030-9927-4ce4-be9f-0c243888231c")
+			(uuid "087ad030-9927-4ce4-be9f-0c2438882320")
 		)
 		(pin "12"
-			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7b")
+			(uuid "bc9f8ece-9a16-4e62-a204-7dbd25910b7f")
 		)
 		(pin "13"
-			(uuid "b157e185-dea0-4082-a6d7-650f825ec7fd")
+			(uuid "b157e185-dea0-4082-a6d7-650f825ec801")
 		)
 		(pin "1"
 			(uuid "b931005e-c57c-4628-aea5-f0c88fcc2d19")
 		)
 		(pin "6"
-			(uuid "3a83907a-5298-49c4-a3ec-c058c442070a")
+			(uuid "3a83907a-5298-49c4-a3ec-c058c442070e")
 		)
 		(pin "14"
-			(uuid "ad370799-d523-4e63-bfcb-eef419cfb202")
+			(uuid "ad370799-d523-4e63-bfcb-eef419cfb206")
 		)
 		(pin "7"
-			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11134")
+			(uuid "98ffd0ec-aee4-4c53-935f-bcbddfb11138")
 		)
 		(instances
 			(project "Integrated Circuit Design"
