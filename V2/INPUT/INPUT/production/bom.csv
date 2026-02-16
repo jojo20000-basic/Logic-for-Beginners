@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,1206,1,100nF,
+"D1, D2, D3, D4, D5, D6, D7, D8",1206,8,LED,
+"J1, J3, J4, J5, J6, J7, J8, J9",PinSocket_1x03_P2.54mm_Horizontal,8,Conn_01x03,
+J2,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_16P,
+"Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8",TO-252-2,8,QM6006D,
+"R1, R10, R4, R5, R6, R7, R8, R9",1206,8,R,
+"R2, R3",1206,2,5k1,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,8,SW_SPST,
+U1,SOT-666,1,USBLC6-2P6,

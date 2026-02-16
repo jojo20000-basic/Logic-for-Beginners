@@ -4862,7 +4862,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 46.99 0)
+		(at 142.24 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4871,25 +4871,23 @@
 		(fields_autoplaced yes)
 		(uuid "53646c9e-83b2-4f63-8a99-3937d4c090c4")
 		(property "Reference" "J3"
-			(at 154.94 45.7199 0)
+			(at 142.24 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 48.2599 0)
+			(at 142.24 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 46.99 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,7 +4896,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 46.99 0)
+			(at 142.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4907,7 +4905,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 46.99 0)
+			(at 142.24 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5086,7 +5084,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 133.35 0)
+		(at 142.24 133.35 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5095,25 +5093,23 @@
 		(fields_autoplaced yes)
 		(uuid "5f4069e1-3430-4334-95c7-1608c268bcf8")
 		(property "Reference" "J7"
-			(at 154.94 132.0799 0)
+			(at 142.24 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 134.6199 0)
+			(at 142.24 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 133.35 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5122,7 +5118,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 133.35 0)
+			(at 142.24 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5131,7 +5127,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 133.35 0)
+			(at 142.24 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5159,7 +5155,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 26.67 0)
+		(at 142.24 26.67 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5168,25 +5164,23 @@
 		(fields_autoplaced yes)
 		(uuid "64c4550a-adca-4132-aec5-a9e5dcfd4b1e")
 		(property "Reference" "J1"
-			(at 154.94 25.3999 0)
+			(at 142.24 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 27.9399 0)
+			(at 142.24 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 26.67 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5195,7 +5189,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 26.67 0)
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5204,7 +5198,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 26.67 0)
+			(at 142.24 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5222,7 +5216,7 @@
 			(uuid "abc37d01-9d99-4f70-a877-1fa4d79b7442")
 		)
 		(instances
-			(project ""
+			(project "INPUT"
 				(path "/f1995868-cc24-42d4-9374-8e61c36f6b2f"
 					(reference "J1")
 					(unit 1)
@@ -5969,7 +5963,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 88.9 0)
+		(at 142.24 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5978,25 +5972,23 @@
 		(fields_autoplaced yes)
 		(uuid "954fddbe-b323-44df-a39e-2f64e56389db")
 		(property "Reference" "J5"
-			(at 154.94 87.6299 0)
+			(at 142.24 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 90.1699 0)
+			(at 142.24 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 88.9 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +5997,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 88.9 0)
+			(at 142.24 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6014,7 +6006,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 88.9 0)
+			(at 142.24 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6840,7 +6832,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 151.13 154.94 0)
+		(at 140.97 154.94 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6849,25 +6841,23 @@
 		(fields_autoplaced yes)
 		(uuid "c3f90c0b-c47c-4b4a-850f-3ebe457ef5e7")
 		(property "Reference" "J8"
-			(at 153.67 153.6699 0)
+			(at 140.97 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 153.67 156.2099 0)
+			(at 140.97 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 151.13 154.94 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 140.97 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6876,7 +6866,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 154.94 0)
+			(at 140.97 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6885,7 +6875,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 151.13 154.94 0)
+			(at 140.97 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7124,7 +7114,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 151.13 68.58 0)
+		(at 140.97 68.58 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7133,25 +7123,23 @@
 		(fields_autoplaced yes)
 		(uuid "df2b7bcd-92ea-4764-96bc-f065a15ab125")
 		(property "Reference" "J4"
-			(at 153.67 67.3099 0)
+			(at 140.97 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 153.67 69.8499 0)
+			(at 140.97 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 151.13 68.58 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 140.97 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7160,7 +7148,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 68.58 0)
+			(at 140.97 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7169,7 +7157,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 151.13 68.58 0)
+			(at 140.97 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7332,7 +7320,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 175.26 0)
+		(at 142.24 175.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7341,25 +7329,23 @@
 		(fields_autoplaced yes)
 		(uuid "f139e766-fad7-411f-b000-0d72507898de")
 		(property "Reference" "J9"
-			(at 154.94 173.9899 0)
+			(at 142.24 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 176.5299 0)
+			(at 142.24 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 175.26 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7368,7 +7354,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 175.26 0)
+			(at 142.24 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7377,7 +7363,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 175.26 0)
+			(at 142.24 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7405,7 +7391,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 152.4 113.03 0)
+		(at 142.24 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7414,25 +7400,23 @@
 		(fields_autoplaced yes)
 		(uuid "f6adea1e-ebc9-4489-b7a6-c2307d3ed532")
 		(property "Reference" "J6"
-			(at 154.94 111.7599 0)
+			(at 142.24 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 154.94 114.2999 0)
+			(at 142.24 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal"
-			(at 152.4 113.03 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 142.24 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7441,7 +7425,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 113.03 0)
+			(at 142.24 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7450,7 +7434,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 113.03 0)
+			(at 142.24 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
