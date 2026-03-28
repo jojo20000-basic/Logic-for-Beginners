@@ -133,7 +133,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -217,13 +217,7 @@
       "mfg": "",
       "mpn": ""
     },
-    "layer_pairs": [
-      {
-        "bottomLayer": 2,
-        "enabled": true,
-        "topLayer": 0
-      }
-    ],
+    "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
@@ -457,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AND.kicad_pro",
+    "filename": "INPUT.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -573,7 +567,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Referenz"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -625,7 +619,7 @@
   },
   "sheets": [
     [
-      "ea6c4c23-c6fa-4b18-bf87-f733c6525e5c",
+      "f1995868-cc24-42d4-9374-8e61c36f6b2f",
       "Root"
     ]
   ],

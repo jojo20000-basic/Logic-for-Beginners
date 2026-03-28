@@ -217,13 +217,7 @@
       "mfg": "",
       "mpn": ""
     },
-    "layer_pairs": [
-      {
-        "bottomLayer": 2,
-        "enabled": true,
-        "topLayer": 0
-      }
-    ],
+    "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
@@ -457,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "AND.kicad_pro",
+    "filename": "Logic Gate.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -573,7 +567,7 @@
       "include_excluded_from_bom": true,
       "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Referenz"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -603,14 +597,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -625,7 +611,7 @@
   },
   "sheets": [
     [
-      "ea6c4c23-c6fa-4b18-bf87-f733c6525e5c",
+      "c5dd4a79-2626-48fe-994e-84ef3be74c36",
       "Root"
     ]
   ],
