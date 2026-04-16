@@ -1165,12 +1165,6 @@
 		(uuid "05f07b1d-55bd-4368-bd67-d9d071d031e8")
 	)
 	(junction
-		(at 44.45 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14a950c6-c5e2-4b0d-aa3d-212e0fb5ed8a")
-	)
-	(junction
 		(at 88.9 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1219,6 +1213,12 @@
 		(uuid "87411a0d-90cf-4ac1-957a-e4679e06a8bf")
 	)
 	(junction
+		(at 44.45 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8da988c1-da7a-4a6c-ad68-b8bcf50ce3de")
+	)
+	(junction
 		(at 83.82 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1240,7 +1240,7 @@
 		(at 44.45 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d185c71d-5455-47d5-bfd0-ff2f4c851cdb")
+		(uuid "d1217e15-18db-4fd0-942d-d51f752e4821")
 	)
 	(junction
 		(at 52.07 39.37)
@@ -1666,7 +1666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 96.52 36.83 0)
 			(effects
 				(font
@@ -1801,7 +1801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 53.848 43.18 90)
 			(effects
 				(font
@@ -1947,7 +1947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 96.52 57.15 0)
 			(effects
 				(font
@@ -2017,7 +2017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 49.53 34.798 90)
 			(effects
 				(font
@@ -2087,7 +2087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 96.52 46.99 0)
 			(effects
 				(font
@@ -2159,7 +2159,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 64.77 45.085 0)
 			(effects
 				(font
@@ -2209,7 +2209,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 39.37 41.91 180)
+		(at 49.53 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2218,7 +2218,7 @@
 		(fields_autoplaced yes)
 		(uuid "8eca6a7d-efcf-45ce-b781-b3bb1ea40816")
 		(property "Reference" "J1"
-			(at 36.83 43.1801 0)
+			(at 52.07 40.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2227,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 36.83 40.6401 0)
+			(at 52.07 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2235,8 +2235,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 39.37 41.91 0)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2245,7 +2245,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 41.91 0)
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2254,7 +2254,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 39.37 41.91 0)
+			(at 49.53 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2272,7 +2272,7 @@
 			(uuid "a9fa871f-ed6a-4cbc-a445-3a1dd85f8265")
 		)
 		(instances
-			(project ""
+			(project "VERTEILER"
 				(path "/82608657-5f8e-42df-8291-2d1ef377a456"
 					(reference "J1")
 					(unit 1)
@@ -2374,7 +2374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal"
 			(at 96.52 26.67 0)
 			(effects
 				(font
